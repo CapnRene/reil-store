@@ -15,7 +15,7 @@ const HomePage = async () => {
         <div className="p-4 sm:p-6 lg:p-8 rounded-xl overflow-hidden">
           <div
             style={{
-              backgroundImage: `url(https://res.cloudinary.com/dewvrpoqt/image/upload/v1691763702/dhgxnicoxecycgny0ykx.png)`
+              backgroundImage: `url(https://res.cloudinary.com/dewvrpoqt/image/upload/v1698413505/REIL_logo_1_wcsbt2.png)`
             }}
             className="rounded-xl bg-center aspect-square md:aspect-[1.5/1] overflow-hidden bg-cover"
           />
